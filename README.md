@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Senagokoglan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c#,java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me 05545509014
 
 <!---
